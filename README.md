@@ -6,7 +6,7 @@ Customer should be able to:
 * Enroll in a program to earn points on purchases
 * Earn 1 point per dollar spent
 * Redeem points after reaching 100 points
-* See their point balance after each transaction
+* See balance after each transaction
 
 * Customer’s points to be redeemed first-in / first-out
 
